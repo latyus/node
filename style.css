@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(125, 115, 115);
+    color: red;
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+}
+h1{
+    font-size: 50px;
+
+}
+h2{
+    color:rgb(125, 115, 115)
+}
+.btn{
+    color:  rgb(125, 115, 115);
+    background-color: red;
+    border: none;
+    padding-inline: 5rem;
+    font-size: 1.2rem;
+    padding-block: 1rem;
+    border-radius: 2rem;
+}
+li{
+    display: inline;
+    margin-left: 2em;
+}
+a{
+    color: rgb(125, 115, 115);
+    font-size: 2rem;
+    font-family: serif;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+section{
+    text-align: center;
+}
